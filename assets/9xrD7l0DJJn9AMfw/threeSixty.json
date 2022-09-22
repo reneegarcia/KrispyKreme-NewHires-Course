@@ -1,0 +1,87 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "69Q3jBcaDAs",
+  "title": "Doughnut Game",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5tEFLsmbJtD",
+      "title": "Cover slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5x4MUkDwf6r",
+      "title": "Pick One",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5nnusa1n2OK",
+      "title": "Pick One",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6WOFewhH8O4",
+      "title": "Pick One",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6S04seu7a7x",
+      "title": "Results Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6DtpPaiIngS",
+      "title": "Let's Decorate",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6QmCepV2dng",
+      "title": "Strawberry Iced",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6MlK38RA4Ri",
+      "title": "Drag and Drop",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6EpQAdj30yR",
+      "title": "Drag and Drop",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6J8orVjLDTX",
+      "title": "Drag and Drop",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6o5Uyhw6AXo",
+      "title": "Drag and Drop",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "67egnSktxmM",
+      "title": "Drag and Drop",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6kBPpu7LPRh",
+      "title": "Drag and Drop",
+      "scene_index": "1.13"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
